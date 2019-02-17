@@ -5,3 +5,6 @@ Load this extension in chrome. In Windows it is redirecting images in gmail to g
 In ubuntu it doesn't work.
 
 Chrome 72
+
+UPDATE:
+It doesn't work in Windows too now after a patch to chrome 72.
